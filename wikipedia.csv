@@ -1,0 +1,93 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q16195114,David Hilditch,Q215519,Democratic Unionist Party,6248,Q28231972,2017 Assembly election,1
+Q7615771,Stewart Dickson,Q244927,Alliance Party of Northern Ireland,6783,Q28231972,2017 Assembly election,2
+Q7372562,"Roy Beggs, Jr.",Q841045,Ulster Unionist Party,6324,Q28231972,2017 Assembly election,3
+Q20966622,Gordon Lyons,Q215519,Democratic Unionist Party,7553.94,Q28231972,2017 Assembly election,4
+Q28868387,John Stewart,Q841045,Ulster Unionist Party,6343.88,Q28231972,2017 Assembly election,5
+Q7087696,Oliver McMullan,Q76382,Sinn Féin,4700.77,Q28231972,2017 Assembly election,6
+,Stephen Ross,Q215519,Democratic Unionist Party,3834.12,Q28231972,2017 Assembly election,7
+,Danny Donnelly,Q244927,Alliance Party of Northern Ireland,2515,Q28231972,2017 Assembly election,8
+,Noel Jordan,Q10647,UKIP,1955,Q28231972,2017 Assembly election,9
+,Margaret Anne McKillop,Q175443,Social Democratic and Labour Party,1653,Q28231972,2017 Assembly election,10
+,Ruth Wilson,Q985076,Traditional Unionist Voice,1587,Q28231972,2017 Assembly election,11
+,Dawn Patterson,Q1096979,Green Party in Northern Ireland,777,Q28231972,2017 Assembly election,12
+,Conor Sheridan,Q24083594,Cross-Community Labour Alternative,393,Q28231972,2017 Assembly election,13
+,Alan Dunlop,Q7058484,Northern Ireland Conservatives,152,Q28231972,2017 Assembly election,14
+,Ricky Best,Q327591,Independent (politician),106,Q28231972,2017 Assembly election,15
+Q16195114,David Hilditch,Q215519,Democratic Unionist Party,5906,Q16973450,2016 Assembly election,1
+Q20966622,Gordon Lyons,Q215519,Democratic Unionist Party,4857.17,Q16973450,2016 Assembly election,2
+Q7372562,Roy Beggs Jr,Q841045,Ulster Unionist Party,4707.67,Q16973450,2016 Assembly election,3
+Q7615771,Stewart Dickson,Q244927,Alliance Party of Northern Ireland,5233.55,Q16973450,2016 Assembly election,4
+Q4708772,Alastair Ross,Q215519,Democratic Unionist Party,4096.44,Q16973450,2016 Assembly election,5
+Q7087696,Oliver McMullan,Q76382,Sinn Féin,3672.27,Q16973450,2016 Assembly election,6
+,Noel Jordan,Q10647,UK Independence Party,3567.48,Q16973450,2016 Assembly election,7
+Q28868387,John Stewart,Q841045,Ulster Unionist Party,2926.89,Q16973450,2016 Assembly election,8
+,Danny Donnelly,Q244927,Alliance Party of Northern Ireland,2242.10,Q16973450,2016 Assembly election,9
+,Ruth Wilson,Q985076,Traditional Unionist Voice,1795.59,Q16973450,2016 Assembly election,10
+,Margaret Anne McKillop,Q175443,Social Democratic and Labour Party,1380.26,Q16973450,2016 Assembly election,11
+,Dawn Patterson,Q1096979,Green Party in Northern Ireland,886.68,Q16973450,2016 Assembly election,12
+,Maureen Morrow,Q841045,Ulster Unionist Party,746.67,Q16973450,2016 Assembly election,13
+,Conor Sheridan,Q24083594,Cross-Community Labour Alternative,557.42,Q16973450,2016 Assembly election,14
+,Jim McCaw,Q1817613,Progressive Unionist Party,463.19,Q16973450,2016 Assembly election,15
+Q262040,Sammy Wilson,Q215519,Democratic Unionist Party,7181,Q7058474,2011 Assembly election,1
+Q16195114,David Hilditch,Q215519,Democratic Unionist Party,4219,Q7058474,2011 Assembly election,2
+Q4708772,Alastair Ross,Q215519,Democratic Unionist Party,4267,Q7058474,2011 Assembly election,3
+Q7615771,Stewart Dickson,Q244927,Alliance Party of Northern Ireland,4777,Q7058474,2011 Assembly election,4
+Q7372562,Roy Beggs Jr,Q841045,Ulster Unionist Party,4194,Q7058474,2011 Assembly election,5
+Q7087696,Oliver McMullan,Q76382,Sinn Féin,3389,Q7058474,2011 Assembly election,6
+,Rodney McCune,Q841045,Ulster Unionist Party,2890,Q7058474,2011 Assembly election,7
+,Gerardine Mulvenna,Q244927,Alliance Party of Northern Ireland,2394,Q7058474,2011 Assembly election,8
+Q20966622,Gordon Lyons,Q215519,Democratic Unionist Party,1973,Q7058474,2011 Assembly election,9
+,Ruth Wilson,Q985076,Traditional Unionist Voice,1654,Q7058474,2011 Assembly election,10
+,Justin McCamphill,Q175443,Social Democratic and Labour Party,1433,Q7058474,2011 Assembly election,11
+,Daniel Donnelly,Q1096979,Green Party in Northern Ireland,685,Q7058474,2011 Assembly election,12
+,Steven Moore,Q161269,British National Party,546,Q7058474,2011 Assembly election,13
+Q262040,Sammy Wilson,Q215519,Democratic Unionist Party,6755,Q2562399,2007 Assembly election,1
+Q5538436,George Dawson,Q215519,Democratic Unionist Party,4777.56,Q2562399,2007 Assembly election,2
+Q16195114,David Hilditch,Q215519,Democratic Unionist Party,4586.84,Q2562399,2007 Assembly election,3
+Q7459580,Seán Neeson,Q244927,Alliance Party of Northern Ireland,5191.00,Q2562399,2007 Assembly election,4
+Q7372562,Roy Beggs Jr,Q841045,Ulster Unionist Party,5114.53,Q2562399,2007 Assembly election,5
+Q6388394,Ken Robinson,Q841045,Ulster Unionist Party,4195.15,Q2562399,2007 Assembly election,6
+Q5220697,Danny O'Connor,Q175443,Social Democratic and Labour Party,3297.91,Q2562399,2007 Assembly election,7
+,Mark Dunn,Q841045,Ulster Unionist Party,2175.55,Q2562399,2007 Assembly election,8
+Q7615771,Stewart Dickson,Q244927,Alliance Party of Northern Ireland,1983.74,Q2562399,2007 Assembly election,9
+Q7087696,Oliver McMullan,Q76382,Sinn Féin,1206.36,Q2562399,2007 Assembly election,10
+Q17198666,Thomas Robinson,Q985706,UK Unionist Party,937.72,Q2562399,2007 Assembly election,11
+,Mark Bailey,Q1096979,Green Party of Northern Ireland,793.00,Q2562399,2007 Assembly election,12
+,Tim Lewis,Q7058484,Northern Ireland Conservatives,453.40,Q2562399,2007 Assembly election,13
+,John Anderson,Q327591,Independent (politician),416.84,Q2562399,2007 Assembly election,14
+Q7372562,Roy Beggs Jr,Q841045,Ulster Unionist Party,5175,Q2076187,2003 Assembly election,1
+Q262040,Sammy Wilson,Q215519,Democratic Unionist Party,4544,Q2076187,2003 Assembly election,2
+Q6388394,Ken Robinson,Q841045,Ulster Unionist Party,4838.02,Q2076187,2003 Assembly election,3
+Q7459580,Seán Neeson,Q244927,Alliance Party of Northern Ireland,4264.62,Q2076187,2003 Assembly election,4
+Q16195114,David Hilditch,Q215519,Democratic Unionist Party,4142.12,Q2076187,2003 Assembly election,5
+Q5538436,George Dawson,Q215519,Democratic Unionist Party,4128.40,Q2076187,2003 Assembly election,6
+Q5220697,Danny O'Connor,Q175443,Social Democratic and Labour Party,3331.90,Q2076187,2003 Assembly election,7
+,Roy McCune,Q841045,Ulster Unionist Party,2719.84,Q2076187,2003 Assembly election,8
+Q6114012,Jack McKee,Q327591,Independent (politician),1984.46,Q2076187,2003 Assembly election,9
+Q7615771,Stewart Dickson,Q244927,Alliance Party of Northern Ireland,1460.20,Q2076187,2003 Assembly election,10
+Q7358372,Roger Hutchinson,Q327591,Independent (politician),1181.54,Q2076187,2003 Assembly election,11
+Q7087696,Oliver McMullan,Q76382,Sinn Féin,779.28,Q2076187,2003 Assembly election,12
+Q17198666,Thomas Robinson,Q985706,UK Unionist Party,651.62,Q2076187,2003 Assembly election,13
+,Carolyn Howarth,Q1817613,Progressive Unionist Party,590.74,Q2076187,2003 Assembly election,14
+Q16997413,Lindsay Mason,Q327591,Independent (politician),514.96,Q2076187,2003 Assembly election,15
+,John Anderson,Q327591,Independent (politician),388.52,Q2076187,2003 Assembly election,16
+,Anne Monaghan,Q7058538,Northern Ireland Women's Coalition,347.50,Q2076187,2003 Assembly election,17
+,Alan Greer,Q7058484,Northern Ireland Conservatives,210.88,Q2076187,2003 Assembly election,18
+,Andrew Frew,Q1096979,Green Party of Northern Ireland,165.74,Q2076187,2003 Assembly election,19
+Q7372562,Roy Beggs Jr,Q841045,Ulster Unionist Party,5764,Q2076208,1998 Assembly election,1
+Q7459580,Seán Neeson,Q244927,Alliance Party of Northern Ireland,5247,Q2076208,1998 Assembly election,2
+Q16195114,David Hilditch,Q215519,Democratic Unionist Party,5214.91,Q2076208,1998 Assembly election,3
+Q6388394,Ken Robinson,Q841045,Ulster Unionist Party,6275.22,Q2076208,1998 Assembly election,4
+Q7358372,Roger Hutchinson,Q985706,UK Unionist Party,4220.39,Q2076208,1998 Assembly election,5
+Q5220697,Danny O'Connor,Q175443,Social Democratic and Labour Party,4190.71,Q2076208,1998 Assembly election,6
+Q6114012,Jack McKee,Q215519,Democratic Unionist Party,4142.34,Q2076208,1998 Assembly election,7
+Q17012793,May Steele,Q841045,Ulster Unionist Party,3561.92,Q2076208,1998 Assembly election,8
+Q7615771,Stewart Dickson,Q244927,Alliance Party of Northern Ireland,2744.26,Q2076208,1998 Assembly election,9
+,James Brown,Q6017344,Independent Unionist,1987.57,Q2076208,1998 Assembly election,10
+,William Greer,Q1817613,Progressive Unionist Party,1703.12,Q2076208,1998 Assembly election,11
+,Chrissie McAuley,Q76382,Sinn Féin,764.40,Q2076208,1998 Assembly election,12
+Q7819601,Tommy Kirkham,Q1781051,Ulster Democratic Party,625.09,Q2076208,1998 Assembly election,13
+Q16997413,Lindsay Mason,Q327591,Independent (politician),440.74,Q2076208,1998 Assembly election,14
+,Terence Dick,Q7058484,Northern Ireland Conservatives,243.57,Q2076208,1998 Assembly election,15
+,James McKissock,Q491782,Natural Law Party,32.33,Q2076208,1998 Assembly election,16
